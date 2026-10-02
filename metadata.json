@@ -1,0 +1,8 @@
+{
+  "name": "AI Study Planner",
+  "description": "Generate personalized, spaced-repetition study schedules based on your subjects, syllabus topics, daily availability, and exam dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
